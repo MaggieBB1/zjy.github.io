@@ -1,0 +1,82 @@
+.head {
+	background-color: #a18ed5;
+}
+
+p {
+	text-indent: 0em;
+}
+
+.computerGraphics{
+	margin-left: 50px;
+	width: 400px;
+	height: 300px;
+	background-color:rgb(89, 95, 101);
+}
+
+.computerGraphics h1{
+	font-style: initial;
+	color: rgb(201, 100, 28);
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.computerGraphics h2{
+	text-align:center;
+	font-style: initial;
+	color: rgb(201, 100, 28);
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 77px;
+}
+
+.u1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 25%;
+}
+.u1 li{
+	margin-top: 15px;
+}
+.u1 a{
+	margin-left: 20px;
+	color: cornflowerblue;
+}
+
+.CG{
+	float: left;
+}
+.lab{
+	float:inline-end;
+	position:absolute;
+	margin-left: 500px;
+	margin-top: 30px;
+}
+
+.softwareEnginering{
+	margin-top: 360px;
+	margin-left: 50px;
+	width: 400px;
+	height: 300px;
+	background-color:rgb(98, 93, 188);
+
+}
+.softwareEnginering .tx1{
+	font-size: 2em;
+	font-style: initial;
+	color: rgb(241, 241, 241);
+	margin-top: 100px;
+	margin-left: 120px;
+	position: absolute;
+    font-weight: bold;
+
+}
+.softwareEnginering .tx2{
+	font-size: 1.5em;
+	text-align:center;
+	color: rgb(241, 241, 241);
+	margin-top: 150px;
+	margin-left: 60px;
+	position: absolute;
+	font-style: initial;
+	font-weight: bold;
+}
